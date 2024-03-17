@@ -1,6 +1,6 @@
 # Laravel Nuxt Vuetify 
 
- 
+  
 > A Laravel Nuxt Vuetify starter project template.
 
 <p align="center">
