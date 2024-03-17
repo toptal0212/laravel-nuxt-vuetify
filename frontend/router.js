@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import { scrollBehavior } from '~/utils'
-
+ 
 Vue.use(Router)
 
 const Home = () => import('~/pages/home').then(m => m.default || m)
